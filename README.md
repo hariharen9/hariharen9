@@ -2,7 +2,7 @@
 
 ## I'm a Student, Learner, Developer, and an Programming Enthusiast!
 
-## Computer Science Engineer --- ETA-2022
+## Computer Science Engineer (ETA-2022)
 
 ## I just love creating stuffs!
 
