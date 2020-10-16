@@ -81,7 +81,7 @@
 [twitter]: https://twitter.com/thisishariharen
 [youtube]: https://www.youtube.com/channel/UCGRVM6oFyzOtGJxXH32ClBw
 [instagram]: https://instagram.com/thisishariharen
-[linkedin]: https://www.linkedin.com/in/hariharen-sundaram-6607621ab/
+[linkedin]: https://www.linkedin.com/in/hariharen9
 [facebook]: https://www.facebook.com/hari.haren.94
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
