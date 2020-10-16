@@ -1,6 +1,6 @@
 ### Hola, I'm Hariharen - 👋
 
-## I'm a Student, Learner, Developer, and an Programming Enthusiast!
+## I'm a Student, Learner, Developer, and a Programming Enthusiast!
 
 ## Computer Science Engineer (ETA-2022)
 
