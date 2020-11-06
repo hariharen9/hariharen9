@@ -12,7 +12,7 @@
 - 💬 Ask me about Getting Started with Programming (Self Taught Programmer 😎)
 - 📫 How to reach me: Links are below 👇👇
 - 🥅 2020 Goals: Survive! with a bit of extra knowledge
-- ⚡ Fun fact: I love to play videogames. Some times create em'!
+- ⚡ Fun fact: I love to play videogames. Some times create em'! & **0.2 + 0.1 != 0.3** 🤣
 
 ### Connect with me:
 
