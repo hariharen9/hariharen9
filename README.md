@@ -2,9 +2,11 @@
 
 ## I'm a Student, Learner, Developer, and an Programming Enthusiast!
 
-## Computer Science Engineer (ETA-2022)
+# Computer Science Engineer (ETA-2022)
 
-## I just love creating stuffs!
+# I just love creating stuffs!
+
+---
 
 - 🔭 I’m currently working on Flutter and React
 - 🌱 I’m learning a bit from everything for-now (Python to Javascript 🔁 🤣 )
