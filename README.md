@@ -82,11 +82,13 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
 
 </details>
+<br>
 <details>
   <summary>:zap: GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" /></p>
 
 </details>
+<br>
 <details>
   <summary>:zap: Most Used Languages</summary>
 
