@@ -1,10 +1,10 @@
-### Hey there, I'm Hariharen - 👋 nice meeting you!
+# Hey there, I'm Hariharen - 👋 nice meeting you!
 
 ## I'm a Student, Learner, Developer, and an Programming Enthusiast!
 
-# Computer Science Engineer (ETA-2022)
+### Computer Science Engineer (ETA-2022)
 
-# I just love creating stuffs!
+### I just love creating stuffs!
 
 ---
 
@@ -17,6 +17,8 @@
 - ⚡ Fun fact: I love to play videogames. Some times create em'! & **0.2 + 0.1 != 0.3** 🤣
 
 ### Connect with me:
+
+---
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
