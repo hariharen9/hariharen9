@@ -74,7 +74,26 @@
 
 ---
 
-<img align="left" alt="hariharen9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
+
+<br>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
+
+</details>
+<details>
+  <summary>:zap: GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" /></p>
+
+</details>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharen9&show_icons=true&locale=en&layout=compact" alt="hariharen9" /></p>
+</details>
+
+
 
 <!-- [website]: https://codeSTACKr.com -->
 
