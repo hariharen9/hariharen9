@@ -56,20 +56,14 @@
 
 
 
-
-
-
-
-<!-- ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4) -->
-<!-- YOUTUBE:END -->
-
+<br />
 ---
+
+
+
+
+
+
 
 <!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -84,27 +78,27 @@
 
 <br>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
 
 </details>
 <br>
 <details>
-  <summary>:zap: GitHub History</summary>
+  <summary>: GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" /></p>
 
 </details>
 <br>
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:Most Used Languages</summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharen9&show_icons=true&locale=en&layout=compact" alt="hariharen9" /></p>
 </details>
 
 
 
-<!-- [website]: https://codeSTACKr.com -->
+
 
 [twitter]: https://twitter.com/thisishariharen
 [youtube]: https://www.youtube.com/channel/UCGRVM6oFyzOtGJxXH32ClBw
@@ -112,7 +106,3 @@
 [linkedin]: https://www.linkedin.com/in/hariharen9
 [facebook]: https://www.facebook.com/hari.haren.94
 
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
