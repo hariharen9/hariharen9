@@ -55,9 +55,7 @@
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 
-<br>
----
-<br>
+
 
 
 
