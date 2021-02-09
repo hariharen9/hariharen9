@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on Flutter and React
 - 🌱 I’m learning a bit from everything for-now (Python to Javascript 🔁 🤣 )
-- 👯 I’m looking to collaborate with other content creators (Need some advices)
+- 👯 I’m looking to collaborate with other content creators (Need some advice and guidance 😁)
 - 💬 Ask me about Getting Started with Programming (Self Taught Programmer 😎)
-- 📫 How to reach me: Links are below 👇👇
 - 🥅 2020 Goals: Survive! with a bit of extra knowledge
-- ⚡ Fun fact: I love to play videogames. Some times create em'! & **0.2 + 0.1 != 0.3** 🤣
+- ⚡ Fun fact: I love to play videogames 💕
+- 📫 How to reach me: Links are below 👇👇
 
 ### Connect with me:
 
