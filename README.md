@@ -83,13 +83,13 @@
 
 <br>
 
-  <p> GitHub History</sup>
+  <p> \n GitHub History</sup>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" />
 
 
 <br>
 
-  <p> Used Languages</p>
+  <p> \n Used Languages</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharen9&show_icons=true&locale=en&layout=compact" alt="hariharen9" />
 
