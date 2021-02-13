@@ -77,20 +77,21 @@
 <br>
 
   <p> GitHub Stats</p>
-
+<br>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
 
 
 <br>
 
-  <p> \n GitHub History</sup>
+  <p>GitHub History</sup>
+  <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" />
 
 
 <br>
 
-  <p> \n Used Languages</p>
-
+  <p>Used Languages</p>
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharen9&show_icons=true&locale=en&layout=compact" alt="hariharen9" />
 
 
