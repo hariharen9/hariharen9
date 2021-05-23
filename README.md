@@ -10,6 +10,9 @@
 
 I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in Computer Science Engineering. I am a tech enthusiast & Flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 
+<p align ="left"> <a href="https://github.com/hariharen9">
+ <img src="https://komarev.com/ghpvc/?username=hariharen9&label=Views&color=blue&style=plastic" alt="hariharen9"/>
+</a> </p>
 ---
 
 - 🔭 I’m currently working on Flutter and React
@@ -33,6 +36,8 @@ I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in 
 [<img align="left" alt="Hariharen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Hariharen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br>
+<br>
 
 ### Languages and Tools:
 
