@@ -59,9 +59,7 @@ I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in 
 
 <br>
 <br>
-<pre align="center">Let's Learn😎</pre>
-<br>
-<br>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hariharen9&count_private=true&show_icons=true&theme=dracula)
 <br>
 
