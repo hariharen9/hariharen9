@@ -1,10 +1,14 @@
-# Hey there, I'm Hariharen - 👋 nice meeting you!
+<h2 align="center"> Hey there! Fancy seeing you here
+<a href="https://github.com/hariharen9">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</a>
+</h2>
 
 ## I'm a Student, Learner, Developer, and an Programming Enthusiast!
 
-### Computer Science Engineer (ETA-2022)
+##Computer Science Engineer (ETA-2022)
 
-### I just love creating stuffs!
+I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in Computer Science Engineering. I am a tech enthusiast & Flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 
 ---
 
@@ -22,11 +26,11 @@
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Hariharen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Hariharen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hariharen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hariharen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Hariharen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -61,39 +65,10 @@
 
 
 
+<pre align="center">Let's Learn😎</pre>
 
-
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<br>
-
-  <p> GitHub Stats</p>
-<br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hariharen9&show_icons=true&hide_border=true" />
-
-
-<br>
-
-  <p>GitHub History</sup>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" />
-
-
-<br>
-
-  <p>Used Languages</p>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharen9&show_icons=true&locale=en&layout=compact" alt="hariharen9" />
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hariharen9&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharen9&theme=dracula&layout=compact)
 
 
 
