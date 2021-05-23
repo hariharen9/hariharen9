@@ -37,7 +37,7 @@ I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in 
 [<img align="left" alt="Hariharen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br>
-<br>
+
 
 ### Languages and Tools:
 
