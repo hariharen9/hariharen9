@@ -26,7 +26,7 @@ My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
 - 🌱 I’m learning a bit from everything for-now (Python to Javascript 🔁 🤣 )
 - 👯 I’m looking to collaborate with other content creators (Need some advice and guidance 😁)
 - 💬 Ask me about Getting Started with Programming (Self Taught Programmer 😎)
-- 🥅 2020 Goals: Survive! with a bit of extra knowledge
+- 🥅 2021 Goals: Survive! with a bit of extra knowledge
 - ⚡ Fun fact: I love to play videogames 💕
 - 📫 How to reach me: Links are below 👇👇
 
@@ -66,7 +66,7 @@ My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharen9" alt="hariharen9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharen9" alt="hariharen9" /></a> </p>
 
 
 
