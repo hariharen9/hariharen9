@@ -58,6 +58,8 @@ I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in 
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 <br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hariharen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hariharen" /></a></p><br><br>
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hariharen9&count_private=true&show_icons=true&theme=dracula)
