@@ -4,7 +4,7 @@
 </a>
 </h2>
 
-## I'm Hariharen. Full-stack Web and mobile App developer!
+## I'm Hariharen. A Full-stack Web and mobile App developer!
 
 ## Computer Science Engineer (ETA-2022)
 
