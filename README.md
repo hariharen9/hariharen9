@@ -4,11 +4,16 @@
 </a>
 </h2>
 
-## I'm a Student, Learner, Developer, and an Programming Enthusiast!
+## I'm Hariharen. Full-stack Web and mobile App developer!
 
 ## Computer Science Engineer (ETA-2022)
 
-I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in Computer Science Engineering. I am a tech enthusiast & Flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
+I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me. 
+
+<br>
+My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
+<br><br>
+<br>
 
 <p align ="left"> <a href="https://github.com/hariharen9">
  <img src="https://komarev.com/ghpvc/?username=hariharen9&label=Views&color=blue&style=plastic" alt="hariharen9"/>
@@ -61,7 +66,7 @@ I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharen9&" alt="hariharen9" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharen9" alt="hariharen9" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharen9" alt="hariharen9" /></a> </p>
 
 
 
