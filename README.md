@@ -8,7 +8,7 @@
 
 ## Computer Science Engineer (ETA-2022)
 
-I am Hariharen, people call me Hari, currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me. 
+I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me. 
 
 <br>
 My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
