@@ -68,7 +68,7 @@ My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
 
 
 
-![hariharen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hariharen9&layout=compact)]
+<!-- ![hariharen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hariharen9&layout=compact)] -->
 
 
 
