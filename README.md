@@ -13,7 +13,8 @@ A Full-stack Web and mobile App developer!
 I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me. 
 
 <br>
-My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
+My WEBSITE 👇
+[PORTFOLIO](https://hariharen.netlify.app)
 <br> <br>
 
 <p align ="left"> <a href="https://github.com/hariharen9">
