@@ -14,9 +14,7 @@ I am currently pursuing my bachelor's degree in Computer Science Engineering. I 
 
 <br>
 My Portfolio WEBSITE 👉 (https://hariharen.netlify.app)
-<br><br>
-<a href="https://app.daily.dev/hariharen"><img src="https://api.daily.dev/devcards/d00df218b39d4f24ade25cc431938636.png?r=og9" width="250" alt="Hariharen S.S's Dev Card"/></a>
-<br>
+
 
 <p align ="left"> <a href="https://github.com/hariharen9">
  <img src="https://komarev.com/ghpvc/?username=hariharen9&label=Views&color=blue&style=plastic" alt="hariharen9"/>
