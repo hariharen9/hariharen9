@@ -8,8 +8,9 @@
 </h2>
 
 
-## I'm HARIHAREN. 
-A Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+## I am HARIHAREN. 
+You can call me HARI
+I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
