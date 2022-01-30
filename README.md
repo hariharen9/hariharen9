@@ -16,16 +16,8 @@ A Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
-<br>
-My WEBSITE 👇
-<br>
 
-#### [PORTFOLIO](https://hariharen.netlify.app)
-<br>
-
-<a href="https://www.linkedin.com/in/hariharen9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"  /></p>
 
 # 💫More About Me :
 
