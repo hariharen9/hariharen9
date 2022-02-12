@@ -10,7 +10,7 @@
 
 <h1 align="center">I'm HARIHAREN | A Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h1>
 
-<p align="center">I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. </p>
+<h3 align="center">I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. </h3>
 <!-- <a href="https://app.daily.dev/hariharen"><img src="https://api.daily.dev/devcards/d00df218b39d4f24ade25cc431938636.png?r=1p0" width="200" alt="Hariharen S.S's Dev Card"/></a> -->
 
 
