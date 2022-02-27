@@ -45,16 +45,18 @@
 <a align="left" href="https://app.daily.dev/hariharen"><img src="https://api.daily.dev/devcards/d00df218b39d4f24ade25cc431938636.png?r=tid" width="200" alt="Hariharen S.S's Dev Card"/></a>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hariharen9&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hariharen9&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 ![](https://komarev.com/ghpvc/?username=hariharen9&label=Visitors+Count&color=brightgreen)
+## 📈 GitHub Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariharen9&margin-w=4)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hariharen) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/hariharen9) 
