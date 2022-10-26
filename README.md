@@ -55,8 +55,7 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=hariharen9&label=Visitors+Count&color=brightgreen)
-## 📈 GitHub Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariharen9&margin-w=4)
+
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hariharen) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/hariharen9) 
