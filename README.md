@@ -55,6 +55,7 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=hariharen9&label=Visitors+Count&color=brightgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f58c6d67-6f54-4f41-9734-d27e969e6b0c/deploy-status)](https://app.netlify.com/sites/hariharen/deploys)
 
 
   ## 💰You can help me by Donating
