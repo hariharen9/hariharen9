@@ -9,7 +9,7 @@
 
 
 <h1 align="center">I'm HARIHAREN<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<h3 align="center">A Web / Cloud App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h3>
+<h2 align="center">A Web / Cloud App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h2>
 
 <p align="justify">Hello there! I'm Hariharen, a Computer Science Engineering graduate from CIT, Coimbatore. I am working in TCS as a Systems Engineer, currently delving deep into the cloud realm within IBM Cloud.
 
