@@ -8,9 +8,16 @@
 </h2>
 
 
-<h1 align="center">I'm HARIHAREN | A Web & App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h1>
+<h1 align="center">I'm HARIHAREN<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h3 align="center">A Web / Cloud App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h3>
 
-<h3 align="center">I am currently pursuing my bachelor's degree in Computer Science Engineering. I believe in lifelong learning. I'm a tech enthusiast & developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. </h3>
+<p align="justify">Hello there! I'm Hariharen, a Computer Science Engineering graduate from CIT, Coimbatore. I am working in TCS as a Systems Engineer, currently delving deep into the cloud realm within IBM Cloud.
+
+
+My journey began at IBM, where I initially contributed as a contract employee in the VPC division. Now, I am working in Network overlay, shaping cloud infrastructure to align with diverse user requirements while optimizing system software for enhanced performance and security. ensuring system compliance and high availability, essential for scaling applications effectively.
+
+
+I'm also an avid Tech enthusiast with a flair for scripting to automate tasks. I have proficiency in JavaScript, Python and Go. I also have worked in React, Flutter and have a passion for crafting compelling websites and mobile applications. I've even ventured into app development, successfully launching two apps on the Play Store, and previously founded a startup centered on web development. Let's connect and exchange insights within this exciting tech-driven sphere! </p>
 <!-- <a href="https://app.daily.dev/hariharen"><img src="https://api.daily.dev/devcards/d00df218b39d4f24ade25cc431938636.png?r=1p0" width="200" alt="Hariharen S.S's Dev Card"/></a> -->
 
 
@@ -19,19 +26,21 @@
 
 # 💫More About Me :
 
-🔭 I’m currently working on Flutter and React
+🔭 I’m currently working on IBM cloud
 
-🌱 I’m learning a bit from everything for-now (Python to Javascript 🔁 🤣 )
+🌱 I’m learning a bit from everything for-now (Python to Go 🔁 🤣 )
 
 👯 I’m looking to collaborate with other content creators (Need some advice and guidance 😁)
 
 💬 Ask me about Getting Started with Programming (Self Taught Programmer 😎)
 
-🥅 2022 Goals: Survive! with a bit of extra knowledge
+🥅 2024 Goals: Become well versed in CLoud domain
 
 ⚡ Fun fact: I love to play videogames 💕
 
 # 🌐Socials
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fhariharen.site&up_message=Portfolio&down_message=Personal%20Portfolio%20(Down%20for%20now)&style=for-the-badge&logo=react&label=Personal&color=violet)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariahren9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisishariharen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisishariharen) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/v5jNUJdG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hari.haren.94) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hariharen1)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hariharen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hari-Haren-4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/godofredddit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCGRVM6oFyzOtGJxXH32ClBw) 
 
 # 💻Tech Stack
