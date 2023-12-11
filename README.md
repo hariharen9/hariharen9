@@ -39,7 +39,8 @@ I'm also an avid Tech enthusiast with a flair for scripting to automate tasks. I
 ⚡ Fun fact: I love to play videogames 💕
 
 # 🌐Socials
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fhariharen.site&up_message=Portfolio&down_message=Personal%20Portfolio%20(Down%20for%20now)&style=for-the-badge&logo=react&label=Personal&color=violet)
+[![LinkedIn](https://img.shields.io/website?url=https%3A%2F%2Fhariharen.site&up_message=Portfolio&down_message=Personal%20Portfolio%20(Down%20for%20now)&style=for-the-badge&logo=react&label=Personal&color=violet&link=https%3A%2F%2Fhariharen.site
+)](https://hariharen.site) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariahren9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisishariharen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisishariharen) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/v5jNUJdG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hari.haren.94) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hariharen1)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hariharen) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hari-Haren-4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/godofredddit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCGRVM6oFyzOtGJxXH32ClBw) 
 
