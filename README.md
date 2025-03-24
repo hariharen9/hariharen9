@@ -28,13 +28,13 @@ I'm also an avid Tech enthusiast with a flair for scripting to automate tasks. I
 
 🔭 I’m currently working on IBM cloud
 
-🌱 I’m learning a bit from everything for-now (Python to Go 🔁 🤣 )
+🌱 I’m learning a bit from everything for-now (Python to Go 🔁 Docker to Kubernetes)
 
 👯 I’m looking to collaborate with other content creators (Need some advice and guidance 😁)
 
 💬 Ask me about Getting Started with Programming (Self Taught Programmer 😎)
 
-🥅 2024 Goals: Become well versed in CLoud domain
+🥅 2025 Goals: Become well versed in Cloud domain
 
 ⚡ Fun fact: I love to play videogames 💕
 
