@@ -36,9 +36,10 @@
 
 *   ☁️ **Cloud Engineering:** Architecting and managing robust network overlays and infrastructure on IBM Cloud.
 *   🚀 **Go Development:** Crafting performant microservices, APIs, and automation tools using Go.
-*   ☸️ **Kubernetes Operations:** Deploying, managing, and scaling containerized applications on Kubernetes clusters. Using tools like Helm for efficient package management.
+*   ☸️ **Kubernetes Operations:** Deploying, managing, and scaling containerized applications on Kubernetes clusters.
 *   🐳 **Dockerization:** Building optimized and secure container images for diverse applications.
-*   🌱 **Continuous Learning:** Exploring advanced Kubernetes concepts (Service Mesh, Operators), eBPF, and deepening my understanding of distributed systems.
+*   👨‍💻 **Open Source:** Actively developing and maintaining numerous personal side projects and tools.
+*   🌱 **Continuous Learning:** Exploring advanced Kubernetes concepts and deepening my understanding of distributed systems.
 *   🤝 **Collaboration:** Open to collaborating on impactful open-source projects, particularly in the Cloud Native space.
 *   🎮 **Fun Fact:** Outside of tech, I enjoy unwinding with video games!
 
@@ -55,12 +56,11 @@ Here's a look at the technologies I primarily use and enjoy:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) <!-- Added Terraform as it's common in this space -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <!-- Added Linux -->
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) <!-- Added Bash -->
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 
 
 ### **Frontend & Mobile**
 
@@ -85,8 +85,8 @@ Here's a look at the technologies I primarily use and enjoy:
 
 ### **Other Tools & Platforms**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <!-- Added Git -->
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <!-- Added GH Actions -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -104,8 +104,6 @@ Here's a look at the technologies I primarily use and enjoy:
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariharen9&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github" alt="Hariharen's GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharen9&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Hariharen's Top Languages"/>
   <br>
-  <!-- Updated Streak Stats URL -->
-  <img width="98%" src="https://streak-stats.demolab.com/?user=hariharen9&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Hariharen's GitHub Streak"/>
 </p>
 
 *Check out my pinned repositories below for project highlights!*
@@ -114,13 +112,12 @@ Here's a look at the technologies I primarily use and enjoy:
 
 ## ✨ Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hariharen9.site-blue?style=for-the-badge&logo=react)](https://hariharen9.site) <!-- Updated Link -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-hariharen9.site-blue?style=for-the-badge&logo=react)](https://hariharen9.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariahren9)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thisishariharen)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thisishariharen)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) <!-- IMPORTANT: Replace YOUR_DISCORD_ID with your actual ID -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hariharen)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hariharen)
-<!-- Removed Daily.dev Badge -->
 
 ---
 
@@ -144,7 +141,7 @@ Here's a look at the technologies I primarily use and enjoy:
   <p> If you find my work helpful, consider supporting me!</p>
   <p>
     <a href="https://www.buymeacoffee.com/hariharen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
-    <a href="https://paypal.me/hariharen9" target="_blank"><img src="https://img.shields.io/badge/PayPal-Support%20Me-blue?style=flat-square&logo=paypal" alt="PayPal" style="height: 50px !important;width: 180px !important;"></a>
+    <a href="https://paypal.me/thisishariharen" target="_blank"><img src="https://img.shields.io/badge/PayPal-Support%20Me-blue?style=flat-square&logo=paypal" alt="PayPal" style="height: 50px !important;width: 180px !important;"></a>
   </p>
 </div>
 
