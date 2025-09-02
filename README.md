@@ -103,6 +103,7 @@ Here's a look at the technologies I primarily use and enjoy:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariharen9&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github" alt="Hariharen's GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharen9&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Hariharen's Top Languages"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=hariharen9&theme=highcontrast&hide_border=true" alt="Hariharen's GitHub Streak"/>
   <br>
 </p>
 
