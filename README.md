@@ -18,13 +18,13 @@
   <p>📍 Based in India</p>
 </div>
 
-<p align="justify">
+<p align="center">
   Welcome! I'm Hariharen, a Computer Science grad from CIT, Coimbatore, currently immersed in the world of cloud infrastructure as a Systems Engineer at TCS, specializing in IBM Cloud networking. My core focus is designing, implementing, and optimizing cloud solutions, ensuring they are performant, secure, and highly available.
 </p>
-<p align="justify">
+<p align="center">
   I'm passionate about the power of <strong>Go (Golang)</strong> for building efficient backend systems and CLI tools. I leverage <strong>Docker</strong> for containerization and <strong>Kubernetes</strong> for orchestrating applications at scale – these are central to my daily workflow. While Cloud Native is my primary domain, I also have a strong foundation in Python and JavaScript, and experience building full-stack applications and mobile apps (React, Flutter). I've even launched apps on the Play Store and explored the startup scene!
 </p>
-<p align="justify">
+<p align="center">
   Driven by automation and continuous improvement, I love tackling complex distributed systems challenges. Let's connect and explore the future of tech together!
 </p>
 
