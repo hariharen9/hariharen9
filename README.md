@@ -113,7 +113,7 @@ Here's a look at the technologies I primarily use and enjoy:
 
 ## ✨ Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hariharen9.site-blue?style=for-the-badge&logo=react)](https://hariharen9.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hariharen.site-blue?style=for-the-badge&logo=react)](https://hariharen.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharen9)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thisishariharen)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thisishariharen)
