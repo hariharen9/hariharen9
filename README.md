@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <!-- You might want to replace this header with a more personal banner -->
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Banner"/>
   <br>
-  <!-- Using shields.io for consistency -->
   <img src="https://komarev.com/ghpvc/?username=hariharen9&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/hariharen9?label=Followers&style=social" alt="GitHub followers"/>
 </div>
@@ -18,7 +16,7 @@
   <p>📍 Based in India</p>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   Welcome! I'm Hariharen, a Computer Science grad from CIT, Coimbatore, currently immersed in the world of cloud infrastructure as a Systems Engineer at TCS, specializing in IBM Cloud networking. My core focus is designing, implementing, and optimizing cloud solutions, ensuring they are performant, secure, and highly available.
 </p>
 <p align="center">
@@ -26,6 +24,14 @@
 </p>
 <p align="center">
   Driven by automation and continuous improvement, I love tackling complex distributed systems challenges. Let's connect and explore the future of tech together!
+</p> -->
+
+I live at the intersection of **Enterprise Infrastructure** and **Personal Automation**. By day, I orchestrate the backbone of cloud networking at **TCS (IBM Cloud)**, making **Go** and **Kubernetes** dance at scale. By night, I am a digital architect, crafting the CLI tools and full-stack applications that bridge the gap between low-level systems and human-centric design focusing on DevEx.
+
+I don't just ship features, I ship **autonomy**. I believe the best software is "invisible" systems so well-engineered and automated that they solve problems before you even notice them. Whether I'm debugging a microservice or refining UI/UX, my goal is absolute efficiency through clever, resilient code.
+
+<p align="center" style="text-bold">
+Engineering systems that work while you sleep.
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250" alt="Coding GIF" /></p>
@@ -45,6 +51,21 @@
 
 ---
 
+## 🏆 Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **SpendWiser** | Automated expense tracking with financial dashboard, smart SMS ingestion & AI parsing. | [GitHub](https://github.com/hariharen9/spendwiser) • [Live Demo](https://spenditwiser.netlify.app/) |
+| **FFmpeg-this** | Interactive CLI for media manipulation. 5,000+ downloads on PyPI. | [GitHub](https://github.com/hariharen9/ffmpeg-this) • [Docs](https://pegthis.netlify.app/) |
+| **Kessler** | Intelligent CLI to safely clean build artifacts and caches across 30+ ecosystems. | [GitHub](https://github.com/hariharen9/kessler) • [Website](https://kesslercli.netlify.app/) |
+| **LocalSeek** | Stunning, privacy-first AI chat extension for VS Code with RAG support. | [GitHub](https://github.com/hariharen9/localseek) • [Marketplace](https://marketplace.visualstudio.com/items?itemName=Hariharen.localseek) |
+| **JobTrac** | All-in-one command center to streamline your job search strategy. | [GitHub](https://github.com/hariharen9/jobtrac) • [Live App](https://jobtrac.site) |
+| **GitSync** | Interactive TUI to keep all your feature branches synced with a single click. | [GitHub](https://github.com/hariharen9/gitsync) |
+| **LamaCLI** | Fast, local terminal chat with LLMs via Ollama. Built in Go. | [GitHub](https://github.com/hariharen9/lamacli) • [Website](https://lamacli.netlify.app/) |
+| **SplitEase** | Modern PWA for effortless group expense splitting without signups. | [GitHub](https://github.com/hariharen9/splitease) • [Live App](https://spliteaseit.netlify.app) |
+| **Enhance-This** | Cross-platform CLI to transform simple ideas into detailed AI prompts. | [GitHub](https://github.com/hariharen9/enhance-this) |
+
+---
 ## 🛠️ My Tech Arsenal
 
 Here's a look at the technologies I primarily use and enjoy:
